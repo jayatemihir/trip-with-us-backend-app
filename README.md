@@ -23,5 +23,5 @@ This project implements the backend for TripWithUs application which exposes the
 
 Response data will be returned in the following JSON format:
 {
-    "hotels" : <List of hotels in the result>
+    "hotels" : List of hotels in the result
 }
